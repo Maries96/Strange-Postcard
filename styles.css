@@ -1,5 +1,6 @@
 body {
 	background: black;
+	font-family: cursive;
 }
 * {
 	border: 1px dashed red;
@@ -16,6 +17,7 @@ p {
 }
 .postcard-header {
 	display: flex;
+	font-family: cursive;
 }
 .postcard-header img {
 	width: 50px;
@@ -46,4 +48,5 @@ input {
 button {
 	background-color: grey;
 	padding: 10px;
+	font-family: cursive;
 }
