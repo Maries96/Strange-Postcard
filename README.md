@@ -54,3 +54,4 @@ This exercise covers the following fundamentals:
 6. Using a simple form  
 
 # Strange-Postcard
+# Strange-Postcard
